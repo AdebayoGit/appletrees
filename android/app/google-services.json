@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "824170291012",
+    "project_id": "longthroat-de851",
+    "storage_bucket": "longthroat-de851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824170291012:android:065ad7e1bfe63bec298111",
+        "android_client_info": {
+          "package_name": "com.appletrees.longthroat_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824170291012-9tuecu7bo19ioadbhhdjlv7igfnvv533.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appletrees.longthroat_manager",
+            "certificate_hash": "cad7220475861aeea65217c00f7643c3141dcb2e"
+          }
+        },
+        {
+          "client_id": "824170291012-5ckkssiprccphlc1vojf0jqfioeoa4q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8OczywEO1KeMsEULXBNJ2q14QWsKc8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824170291012-5ckkssiprccphlc1vojf0jqfioeoa4q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824170291012:android:415877fcec2f4c61298111",
+        "android_client_info": {
+          "package_name": "com.appletreescuisineng.longthroat_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824170291012-5ckkssiprccphlc1vojf0jqfioeoa4q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8OczywEO1KeMsEULXBNJ2q14QWsKc8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824170291012-5ckkssiprccphlc1vojf0jqfioeoa4q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824170291012:android:99b11a3b58f5c5a1298111",
+        "android_client_info": {
+          "package_name": "com.appletress.longthroat_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824170291012-de4t80dcd5utstmsg6ca4r3c8de82mc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appletress.longthroat_customer",
+            "certificate_hash": "cad7220475861aeea65217c00f7643c3141dcb2e"
+          }
+        },
+        {
+          "client_id": "824170291012-5ckkssiprccphlc1vojf0jqfioeoa4q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8OczywEO1KeMsEULXBNJ2q14QWsKc8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824170291012-5ckkssiprccphlc1vojf0jqfioeoa4q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
